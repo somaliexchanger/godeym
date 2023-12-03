@@ -1,0 +1,3 @@
+[submodule "godeym"]
+    path = godeym
+    url = https://github.com/somaliexchanger/godeym.git
